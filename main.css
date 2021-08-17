@@ -24,9 +24,9 @@
   --text-muted: rgb(114, 118, 125);
   --channels-width: 220px;
   --members-width: 240px;
-  --background-shading: 100%;
+  --background-shading: 70%;
   --background-overlay: rgba(0, 0, 0, .6);
-  --background-image: url(https://clearvision.gitlab.io/images/sapphire.jpg);
+  --background-image: url(https://cdn.discordapp.com/attachments/877056998045261894/877060857853534238/A_Tale_In_Ba_Sing_Se.png);
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
